@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sifat Agent</string>
+    <string name="accessibility_service_label">Sifat Agent Safe Automation</string>
+    <string name="accessibility_service_description">Allows Sifat Agent to read visible on-screen text and perform user-authorized navigation, clicks, and scrolling only when explicitly requested. Passwords and sensitive banking screens are excluded.</string>
+    <string name="wake_word_channel_name">Sifat Wake-Word Listening</string>
+    <string name="wake_word_channel_desc">Visible notification shown whenever opt-in Hey Sifat wake-word detection is active.</string>
+</resources>
